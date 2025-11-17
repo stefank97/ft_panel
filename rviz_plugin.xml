@@ -1,0 +1,10 @@
+<library path="ft_panel">
+  <class
+    name="ft_panel/FtPanel"
+    type="ft_panel::FtPanel"
+    base_class_type="rviz_common::Panel">
+    <description>Slide bar for fake transform offsets in RViz.</description>
+  </class>
+</library>
+
+
