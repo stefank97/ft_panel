@@ -3,8 +3,8 @@
 <package format="3">
   <name>ft_panel</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="ros@todo.todo">ros</maintainer>
+  <description>Provides visualization for the pkh fake_transform.</description>
+  <maintainer email="stefan.kessler97@gmail.com">ros</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
